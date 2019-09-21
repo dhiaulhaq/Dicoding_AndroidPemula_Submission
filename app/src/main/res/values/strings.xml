@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ten FGO Servants List</string>
+    <string name="servants_name">Servant Name</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+    <string name="origin">origin</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="profile_name">Dhiaulhaq Muhammad Naufal</string>
+    <string name="profile_email">dmnaufal7@gmail.com</string>
+</resources>
